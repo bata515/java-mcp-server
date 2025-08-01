@@ -1,3 +1,5 @@
+package com.example.mcp_server;
+
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
